@@ -1,0 +1,4 @@
+selenium==4.11.2
+pymongo==4.3.3
+flask==2.3.4
+requests==2.31.0
